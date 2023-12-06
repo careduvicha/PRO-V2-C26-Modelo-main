@@ -93,7 +93,7 @@ function draw() {
   fill("#FFFF");
   textAlign("center");
   textSize(40);
-  text("ARQUEIRO ÉPICO", width / 2, 100);
+  text("ARQUEIRO ÉPICO ", width / 2, 100);
 
   // Contagem de flechas
   fill("#FFFF");
